@@ -24,7 +24,7 @@ npm install
 ```
 
 3. Execute o servidor de desenvolvimento:
-```bash
+```bash a
 npm run dev
 ```
 
