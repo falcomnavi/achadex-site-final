@@ -13,7 +13,7 @@ Um sistema moderno com site web e API para app Android, construído com Next.js,
 - **SQLite** - Banco de dados
 - **JWT** - Tokens de autenticação
 
-## 📦 Instalação
+## 📦 Instalação b
 
 1. Clone o repositório:
 ```bash
